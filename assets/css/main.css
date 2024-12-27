@@ -2862,7 +2862,7 @@ input, select, textarea {
 		#header nav {
 			position: fixed;
 			right: 2em;
-			top: 2em;
+			top: 4em;
 			z-index: 10000;
 		}
 
@@ -2876,7 +2876,7 @@ input, select, textarea {
 				-ms-align-items: center;
 				align-items: center;
 				list-style: none;
-				margin: 0;
+				margin: 1;
 				padding: 0;
 			}
 
@@ -2971,7 +2971,7 @@ input, select, textarea {
 			#footer > .inner .copyright {
 				width: 100%;
 				padding: 0;
-				margin-top: 5em;
+				margin-top: 10em;
 				list-style: none;
 				font-size: 0.8em;
 				color: rgba(88, 88, 88, 0.5);

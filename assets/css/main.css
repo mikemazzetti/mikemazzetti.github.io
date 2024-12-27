@@ -2913,9 +2913,7 @@ input, select, textarea {
 					top: 0.5em;
 				}
 
-					#header nav ul li a[href="#menu"]:before, #header nav ul li a[href="#menu"]:after {
-						background-size: 1.5em 1.5em;
-					}
+					
 
 		}
 

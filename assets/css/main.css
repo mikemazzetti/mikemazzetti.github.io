@@ -82,38 +82,6 @@
 
 		}
 
-	h2, h3, h4, h5, h6 {
-		font-weight: 900;
-		line-height: 1.5;
-		margin: 0 0 2em 0;
-		text-transform: uppercase;
-		letter-spacing: 0.35em;
-	}
-
-		h2 a, h3 a, h4 a, h5 a, h6 a {
-			color: inherit;
-		}
-
-	h2 {
-		font-size: 1.1em;
-	}
-
-	h3 {
-		font-size: 1em;
-	}
-
-	h4 {
-		font-size: 0.8em;
-	}
-
-	h5 {
-		font-size: 0.8em;
-	}
-
-	h6 {
-		font-size: 0.8em;
-	}
-
 	@media screen and (max-width: 980px) {
 
 		h1 br, h2 br, h3 br, h4 br, h5 br, h6 br {
@@ -186,18 +154,6 @@
 		hr.major {
 			margin: 3em 0;
 		}
-
-	.align-left {
-		text-align: left;
-	}
-
-	.align-center {
-		text-align: center;
-	}
-
-	.align-right {
-		text-align: right;
-	}
 
 /* Row */
 

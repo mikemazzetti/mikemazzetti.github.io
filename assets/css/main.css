@@ -1,10 +1,7 @@
-	body, input, select, textarea {
-		color: #585858;
-		font-family: "Source Sans Pro", Helvetica, sans-serif;
-		font-size: 16pt;
-		font-weight: 300;
-		line-height: 1.75;
+	body {
+		background: #f6f6f6;
 	}
+
 
 		@media screen and (max-width: 1680px) {
 
@@ -81,26 +78,6 @@
 			}
 
 		}
-
-	@media screen and (max-width: 980px) {
-
-		h1 br, h2 br, h3 br, h4 br, h5 br, h6 br {
-			display: none;
-		}
-
-	}
-
-	@media screen and (max-width: 736px) {
-
-		h2 {
-			font-size: 1em;
-		}
-
-		h3 {
-			font-size: 0.8em;
-		}
-
-	}
 
 	sub {
 		font-size: 0.8em;

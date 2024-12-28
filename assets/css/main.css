@@ -125,13 +125,13 @@ hr {
 .image {
     display: inline-block;
     position: relative;
-    border-radius: 0; /* Removes rounded corners */
-    border: none; /* Removes line around the image */
+    border-radius: 0; 
+    border: none; 
 }
 
 .image img {
-    max-width: 80%; /* Adjust the size of the image */
-    height: auto; /* Maintain aspect ratio */
+    max-width: 80%; 
+    height: auto; 
     display: block;
 }
 

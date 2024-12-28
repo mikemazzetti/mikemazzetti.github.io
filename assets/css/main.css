@@ -123,25 +123,16 @@ hr {
 }
 
 .image {
-    border-radius: 4px;
-    border: 0;
     display: inline-block;
     position: relative;
+    border-radius: 0; /* Removes rounded corners */
+    border: none; /* Removes line around the image */
 }
 
 .image img {
-    border-radius: 4px;
+    max-width: 80%; /* Adjust the size of the image */
+    height: auto; /* Maintain aspect ratio */
     display: block;
-}
-
-.image.fit {
-    display: block;
-    margin: 0 0 2em 0;
-    width: 100%;
-}
-
-.image.fit img {
-    width: 100%;
 }
 
 .box {

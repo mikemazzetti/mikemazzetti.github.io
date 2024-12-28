@@ -1,3 +1,3 @@
-Personal Website just for Practice and Networking Purposes 
+Personal Website just for Practice with HTML, CSS, and JS, as well as for Networking Purposes 
 
-Will be improved and updated while I practice with HTML, CSS, and JS
+

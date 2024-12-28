@@ -1848,8 +1848,8 @@ input, select, textarea {
 			background-color: transparent;
 			border: solid 1px #c9c9c9;
 			border-radius: 4px;
-			width: 4em;
-			height: 4em;
+			width: 6em;
+			height: 2.65em;
 			display: inline-block;
 			text-align: center;
 			line-height: 2.65em;
